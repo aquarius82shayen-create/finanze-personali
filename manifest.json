@@ -1,0 +1,17 @@
+{
+  "name": "Matteo's Finance",
+  "short_name": "Matteo's Finance",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d14",
+  "theme_color": "#080d14",
+  "lang": "it-IT",
+  "icons": [
+    {
+      "src": "icons/metal-duck.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
