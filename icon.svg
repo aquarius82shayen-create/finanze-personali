@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17263a"/><stop offset="1" stop-color="#060b12"/></linearGradient>
+<linearGradient id="pig" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8fb2"/><stop offset="1" stop-color="#a92e62"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef6ff"/><stop offset=".5" stop-color="#6f8194"/><stop offset="1" stop-color="#cbd7e3"/></linearGradient>
+</defs>
+<rect width="512" height="512" rx="112" fill="url(#bg)"/>
+<rect x="16" y="16" width="480" height="480" rx="96" fill="none" stroke="#31465c" stroke-width="8"/>
+<path d="M126 170c-46-28-69-76-57-120 37 6 74 35 86 79zM386 170c46-28 69-76 57-120-37 6-74 35-86 79z" fill="url(#metal)" stroke="#101820" stroke-width="12"/>
+<path d="M112 221 65 180c-17 53 3 103 54 120zM400 221l47-41c17 53-3 103-54 120z" fill="url(#pig)" stroke="#351025" stroke-width="13"/>
+<path d="M256 118c-101 0-170 71-170 166 0 88 68 148 170 148s170-60 170-148c0-95-69-166-170-166z" fill="url(#pig)" stroke="#351025" stroke-width="15"/>
+<path d="m176 133 30-69 25 48 25-68 25 68 25-48 30 69" fill="url(#metal)" stroke="#101820" stroke-width="10" stroke-linejoin="round"/>
+<path d="M119 238h108l-17 58c-5 17-18 25-35 25h-19c-18 0-29-8-34-25zM285 238h108l-3 58c-5 17-16 25-34 25h-19c-17 0-30-8-35-25z" fill="#071018" stroke="#b9c9d8" stroke-width="9"/>
+<path d="M227 261h58" stroke="#b9c9d8" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="256" cy="354" rx="94" ry="64" fill="#ffb0c8" stroke="#351025" stroke-width="12"/>
+<ellipse cx="222" cy="353" rx="13" ry="20" fill="#351025"/><ellipse cx="290" cy="353" rx="13" ry="20" fill="#351025"/>
+<path d="M158 372c-13 25-9 50 12 65 4-31 14-49 34-59zM354 372c13 25 9 50-12 65-4-31-14-49-34-59z" fill="url(#metal)" stroke="#101820" stroke-width="8"/>
+<g fill="#dce8f4" stroke="#111b26" stroke-width="5"><circle cx="144" cy="194" r="10"/><circle cx="368" cy="194" r="10"/><circle cx="111" cy="302" r="10"/><circle cx="401" cy="302" r="10"/></g>
+</svg>
